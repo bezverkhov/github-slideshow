@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Test Welcome to our second slide!"
+title: "Test Welcome to our GitHub slide!"
 ---
-Your text
-Use the left arrow to go back!
+Your text my slide awesome
